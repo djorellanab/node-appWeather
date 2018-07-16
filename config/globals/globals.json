@@ -1,0 +1,8 @@
+{
+    "google":{
+        "API_Key":""
+    },
+    "openWeatherMap":{
+        "API_Key":""
+    }
+}

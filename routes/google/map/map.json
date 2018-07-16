@@ -1,0 +1,6 @@
+{
+    "domain":"https://maps.googleapis.com/",
+    "slugs": {
+        "geocode":"maps/api/geocode/json"
+    }
+}

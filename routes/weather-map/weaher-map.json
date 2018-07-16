@@ -1,0 +1,6 @@
+{
+    "domain":"https://api.openweathermap.org/",
+    "slugs": {
+        "weather":"data/2.5/weather"
+    }
+}
